@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: firsttest11
-  host: firsttest11
+  name: sharantest
+  host: sharantest
   disk_quota: 1024M
